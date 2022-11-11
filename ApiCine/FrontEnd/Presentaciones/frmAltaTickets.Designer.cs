@@ -47,12 +47,16 @@
             this.lblFuncion = new System.Windows.Forms.Label();
             this.cboFuncion = new System.Windows.Forms.ComboBox();
             this.dgvDetalles = new System.Windows.Forms.DataGridView();
+            this.id_tipo_pago = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.id_butaca = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.id_funcion = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.costo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.descuento = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nom_cliente = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ape_cliente = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnSalir = new System.Windows.Forms.Button();
             this.txtCosto2 = new System.Windows.Forms.TextBox();
-            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.label7 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDetalles)).BeginInit();
             this.SuspendLayout();
             // 
@@ -61,7 +65,7 @@
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
-            this.label6.Location = new System.Drawing.Point(622, 393);
+            this.label6.Location = new System.Drawing.Point(788, 395);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(38, 15);
@@ -70,7 +74,7 @@
             // 
             // txtTotal
             // 
-            this.txtTotal.Location = new System.Drawing.Point(668, 385);
+            this.txtTotal.Location = new System.Drawing.Point(834, 387);
             this.txtTotal.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.txtTotal.Name = "txtTotal";
             this.txtTotal.Size = new System.Drawing.Size(135, 24);
@@ -78,7 +82,7 @@
             // 
             // txtDescuento
             // 
-            this.txtDescuento.Location = new System.Drawing.Point(725, 26);
+            this.txtDescuento.Location = new System.Drawing.Point(739, 53);
             this.txtDescuento.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.txtDescuento.Name = "txtDescuento";
             this.txtDescuento.Size = new System.Drawing.Size(78, 24);
@@ -90,7 +94,7 @@
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
-            this.label5.Location = new System.Drawing.Point(658, 29);
+            this.label5.Location = new System.Drawing.Point(665, 61);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(66, 15);
@@ -102,7 +106,7 @@
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
-            this.label4.Location = new System.Drawing.Point(622, 363);
+            this.label4.Location = new System.Drawing.Point(788, 365);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(55, 15);
@@ -111,7 +115,7 @@
             // 
             // txtCosto
             // 
-            this.txtCosto.Location = new System.Drawing.Point(685, 355);
+            this.txtCosto.Location = new System.Drawing.Point(851, 357);
             this.txtCosto.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.txtCosto.Name = "txtCosto";
             this.txtCosto.Size = new System.Drawing.Size(118, 24);
@@ -161,7 +165,7 @@
             // 
             // btnAgregar
             // 
-            this.btnAgregar.Location = new System.Drawing.Point(658, 56);
+            this.btnAgregar.Location = new System.Drawing.Point(823, 53);
             this.btnAgregar.Margin = new System.Windows.Forms.Padding(2);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(146, 24);
@@ -214,7 +218,7 @@
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(713, 414);
+            this.btnCancelar.Location = new System.Drawing.Point(879, 416);
             this.btnCancelar.Margin = new System.Windows.Forms.Padding(2);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(90, 22);
@@ -236,13 +240,14 @@
             // 
             // btnAceptar
             // 
-            this.btnAceptar.Location = new System.Drawing.Point(619, 414);
+            this.btnAceptar.Location = new System.Drawing.Point(785, 416);
             this.btnAceptar.Margin = new System.Windows.Forms.Padding(2);
             this.btnAceptar.Name = "btnAceptar";
             this.btnAceptar.Size = new System.Drawing.Size(90, 22);
             this.btnAceptar.TabIndex = 17;
             this.btnAceptar.Text = "ACEPTAR";
             this.btnAceptar.UseVisualStyleBackColor = true;
+            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
             // 
             // lblFuncion
             // 
@@ -272,18 +277,64 @@
             this.dgvDetalles.BackgroundColor = System.Drawing.SystemColors.InactiveCaption;
             this.dgvDetalles.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvDetalles.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.Column1,
-            this.Column2,
-            this.Column3,
-            this.Column4});
-            this.dgvDetalles.Location = new System.Drawing.Point(8, 84);
+            this.id_tipo_pago,
+            this.id_butaca,
+            this.id_funcion,
+            this.costo,
+            this.descuento,
+            this.nom_cliente,
+            this.ape_cliente});
+            this.dgvDetalles.Location = new System.Drawing.Point(11, 84);
             this.dgvDetalles.Margin = new System.Windows.Forms.Padding(2);
             this.dgvDetalles.Name = "dgvDetalles";
             this.dgvDetalles.ReadOnly = true;
             this.dgvDetalles.RowHeadersWidth = 51;
             this.dgvDetalles.RowTemplate.Height = 24;
-            this.dgvDetalles.Size = new System.Drawing.Size(796, 266);
+            this.dgvDetalles.Size = new System.Drawing.Size(958, 266);
             this.dgvDetalles.TabIndex = 12;
+            this.dgvDetalles.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDetalles_CellContentClick);
+            // 
+            // id_tipo_pago
+            // 
+            this.id_tipo_pago.HeaderText = "Tipo Pago";
+            this.id_tipo_pago.Name = "id_tipo_pago";
+            this.id_tipo_pago.ReadOnly = true;
+            // 
+            // id_butaca
+            // 
+            this.id_butaca.HeaderText = "Butaca";
+            this.id_butaca.Name = "id_butaca";
+            this.id_butaca.ReadOnly = true;
+            // 
+            // id_funcion
+            // 
+            this.id_funcion.HeaderText = "Funcion";
+            this.id_funcion.Name = "id_funcion";
+            this.id_funcion.ReadOnly = true;
+            // 
+            // costo
+            // 
+            this.costo.HeaderText = "Costo";
+            this.costo.Name = "costo";
+            this.costo.ReadOnly = true;
+            // 
+            // descuento
+            // 
+            this.descuento.HeaderText = "Descuento";
+            this.descuento.Name = "descuento";
+            this.descuento.ReadOnly = true;
+            // 
+            // nom_cliente
+            // 
+            this.nom_cliente.HeaderText = "Nombre";
+            this.nom_cliente.Name = "nom_cliente";
+            this.nom_cliente.ReadOnly = true;
+            // 
+            // ape_cliente
+            // 
+            this.ape_cliente.HeaderText = "Apellido";
+            this.ape_cliente.Name = "ape_cliente";
+            this.ape_cliente.ReadOnly = true;
             // 
             // btnSalir
             // 
@@ -298,43 +349,32 @@
             // 
             // txtCosto2
             // 
-            this.txtCosto2.Location = new System.Drawing.Point(389, 384);
+            this.txtCosto2.Location = new System.Drawing.Point(739, 23);
             this.txtCosto2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.txtCosto2.Name = "txtCosto2";
             this.txtCosto2.Size = new System.Drawing.Size(78, 24);
             this.txtCosto2.TabIndex = 20;
             this.txtCosto2.Text = "0";
             // 
-            // Column1
+            // label7
             // 
-            this.Column1.HeaderText = "Column1";
-            this.Column1.Name = "Column1";
-            this.Column1.ReadOnly = true;
-            // 
-            // Column2
-            // 
-            this.Column2.HeaderText = "Column2";
-            this.Column2.Name = "Column2";
-            this.Column2.ReadOnly = true;
-            // 
-            // Column3
-            // 
-            this.Column3.HeaderText = "Column3";
-            this.Column3.Name = "Column3";
-            this.Column3.ReadOnly = true;
-            // 
-            // Column4
-            // 
-            this.Column4.HeaderText = "Column4";
-            this.Column4.Name = "Column4";
-            this.Column4.ReadOnly = true;
+            this.label7.AutoSize = true;
+            this.label7.BackColor = System.Drawing.Color.Transparent;
+            this.label7.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
+            this.label7.Location = new System.Drawing.Point(690, 32);
+            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(41, 15);
+            this.label7.TabIndex = 21;
+            this.label7.Text = "Costo:";
             // 
             // frmAltaTickets
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.ClientSize = new System.Drawing.Size(810, 438);
+            this.ClientSize = new System.Drawing.Size(980, 440);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.txtCosto2);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.label6);
@@ -389,9 +429,13 @@
         private DataGridView dgvDetalles;
         private Button btnSalir;
         private TextBox txtCosto2;
-        private DataGridViewTextBoxColumn Column1;
-        private DataGridViewTextBoxColumn Column2;
-        private DataGridViewTextBoxColumn Column3;
-        private DataGridViewTextBoxColumn Column4;
+        private DataGridViewTextBoxColumn id_tipo_pago;
+        private DataGridViewTextBoxColumn id_butaca;
+        private DataGridViewTextBoxColumn id_funcion;
+        private DataGridViewTextBoxColumn costo;
+        private DataGridViewTextBoxColumn descuento;
+        private DataGridViewTextBoxColumn nom_cliente;
+        private DataGridViewTextBoxColumn ape_cliente;
+        private Label label7;
     }
 }

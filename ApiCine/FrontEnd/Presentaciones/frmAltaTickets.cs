@@ -99,8 +99,112 @@ namespace FrontEnd.Presentaciones
         }
         private async Task insertarTicket()
         {
+            TipoPago tp2 = (TipoPago)cboTipoPagos.SelectedItem;
+            Cliente cl = (Cliente)cboClientes.SelectedItem;
+
+
+            oTicket.Fecha = DateTime.Today;
+            oTicket.Pago = tp2.idTipoPago;
+            oTicket.Cliente= cl.Id_Cliente;
+           
+            
+    
+            string bodyContent = JsonConvert.SerializeObject(oTicket);
+            string url = "https://localhost:7066/Ticket";
+            var result = await ClientSingleton.GetInstancia().PostAsync(url, bodyContent);
+
+            if (result.Equals("1"))
+            {
+                MessageBox.Show("Ticket Registrado",
+                    "Informe",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Information);
+                
+            }
+            else
+            {
+                MessageBox.Show("Ticket No Registrado", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
 
         }
+        //private void btnAceptar_Click(object sender, EventArgs e)
+        //{
+        //    if (cboTipoPago.Text == string.Empty)
+        //    {
+        //        MessageBox.Show("Ingresar tipo de pago", "AVISO",
+        //            MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+        //        cboTipoPago.Focus();
+        //        return;
+        //    }
+        //    if (cboSucursal.Text == string.Empty)
+        //    {
+        //        MessageBox.Show("Ingresar sucursal", "AVISO",
+        //            MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+        //        cboSucursal.Focus();
+        //        return;
+        //    }
+        //    if (cboCliente.Text == string.Empty)
+        //    {
+        //        MessageBox.Show("Ingresar cliente", "AVISO",
+        //            MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+        //        cboCliente.Focus();
+        //        return;
+        //    }
+        //    if (dgvDetalles.Rows.Count < 1)
+        //    {
+        //        MessageBox.Show("Ingresar por lo menos 1 detalle", "AVISO",
+        //            MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+        //        dgvDetalles.Focus();
+        //        return;
+        //    }
+
+        //    nuevo.id_ticket = servicio.proximoTicket();
+        //    nuevo.id_tipo_pago = cboTipoPago.SelectedIndex + 1;
+        //    nuevo.id_sucursal = cboSucursal.SelectedIndex + 1;
+        //    nuevo.id_cliente = cboCliente.SelectedIndex + 1;
+        //    nuevo.fecha_compra = Convert.ToDateTime(dtpFecha.Value);
+
+        //    if (servicio.insertarTicket(nuevo))
+        //    {
+        //        MessageBox.Show("Ticket guardado");
+        //        limpiar();
+        //    }
+        //    else
+        //    {
+        //        MessageBox.Show("Ticket NO guardado");
+        //    }
+
+        //}
+        //private async Task insertarClientesAsync()
+        //{
+
+        //    cliente.Nombre = txtNombre.Text;
+        //    cliente.Apellido = txtApellido.Text;
+        //    cliente.Dni = Convert.ToInt64(txtDni.Text);
+        //    cliente.Calle = txtCalle.Text;
+        //    cliente.Altura = Convert.ToInt32(txtAltura.Text);
+        //    cliente.Email = txtEmail.Text;
+        //    cliente.Telefono = Convert.ToInt64(txtTelefono.Text);
+
+
+
+        //    string bodyContent = JsonConvert.SerializeObject(cliente);
+        //    string url = "https://localhost:7066/cliente";
+        //    var result = await ClientSingleton.GetInstancia().PostAsync(url, bodyContent);
+
+        //    if (result.Equals("1"))
+        //    {
+        //        MessageBox.Show("Cliente Registrado",
+        //            "Informe",
+        //            MessageBoxButtons.OK,
+        //            MessageBoxIcon.Information);
+        //        cargarClientes();
+        //    }
+        //    else
+        //    {
+        //        MessageBox.Show("Cliente no registrado", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        //    }
+        //}
         private async Task insertarDetalles()
         {
 
@@ -124,13 +228,15 @@ namespace FrontEnd.Presentaciones
                 cboFuncion.Focus();
                 ok = false;
             }
+
             foreach (DataGridViewRow row in dgvDetalles.Rows)
             {
-                if (row.Cells["id_pelicula"].Value.ToString().Equals(cboFuncion.Text) && row.Cells["id_butaca"].Value.ToString().Equals(cboButaca.Text))
+                if (row.Cells["id_butaca"].Value.ToString().Equals(cboButaca.Text))
                 {
                     MessageBox.Show("Butaca ya reservada");
                     ok = false;
                 }
+                
             }
             if (txtDescuento.Text == "")
             {
@@ -169,45 +275,23 @@ namespace FrontEnd.Presentaciones
         {
             if (Validar())
             {
-                //DataRowView item = (DataRowView)cboFuncion.SelectedItem;
-                //int numbutaca = Convert.ToInt32(cboButaca.SelectedItem);
-                //string funcion = item.Row.ItemArray[1].ToString();
-                //double costo = Convert.ToDouble(item.Row.ItemArray[2]);
-                //double descuento = Convert.ToDouble(txtDescuento.Text);
 
-                //dgvDetalles.Rows.Add(new object[] { cboButaca.SelectedValue,cboFuncion.SelectedValue,cboTipoPagos.SelectedValue,txtCosto.Text,txtDescuento.Text });
-                //List<Cliente> lst = await cargarClientes2();
-                //for (int i = 0; i < lst.Count; i++)
-                //{     
-                //    string nombre = Convert.ToString(lst[i].Nombre);
-                //    long dni = (int)lst[i].Dni;
-                //    int id = (int)lst[i].Id_Cliente;
-                //    string apellido = Convert.ToString(lst[i].Apellido);
-                //    string email = Convert.ToString(lst[i].Email);
-                //    string calle = Convert.ToString(lst[i].Calle);
-                //    int altura = (int)lst[i].Altura;
-                //    long telefono = (long)lst[i].Telefono;
-                //    Cliente cliente = new Cliente(id, nombre, apellido, dni, email, calle, altura, telefono);
-
-
-                //}
-               
                 //TRACKEAR LAS PELICULAS Y FUNCIONES ASI PODEMOS CARGAR EN LA DATAGRIDVIEW LOS DATOS CORRESPONDIENTES PARA UNA MEJOR VISUALIZACION
-                
-                int Butaca = (int)cboButaca.SelectedIndex;
+
+                Cliente cliente2 = (Cliente)cboClientes.SelectedItem;
+                cliente2.Id_Cliente = (int)cboClientes.SelectedValue;
+
+                TipoPago tp = (TipoPago)cboTipoPagos.SelectedItem;
+
+                int Butaca = (int)cboButaca.SelectedIndex + 1;
                 double Descuento = Convert.ToDouble(txtDescuento.Text);
                 double Costo = Convert.ToDouble(txtCosto2.Text);
                 int Funcion = Convert.ToInt32(cboFuncion.SelectedValue);
+
                 DetalleTicket dt = new DetalleTicket(Costo,Butaca,Funcion,Descuento);
-
                 oTicket.AgregarDetalle(dt);
-                dgvDetalles.Rows.Add(new object[] { dt.Descuento, dt.Costo, dt.Funcion, dt.Butaca});
-
-
-
-
-
-
+  
+                dgvDetalles.Rows.Add(new object[] { tp.nombreTipo, dt.Butaca, dt.Funcion,dt.Costo,dt.Descuento, cliente2.Nombre, cliente2.Apellido});
             }
         }
 
@@ -224,6 +308,16 @@ namespace FrontEnd.Presentaciones
             var data = await ClientSingleton.GetInstancia().GetAsync(url);
             int lst = JsonConvert.DeserializeObject<int>(data);
             lblProximoTicket.Text = "TICKET Nº " + lst;
+        }
+
+        private void dgvDetalles_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void btnAceptar_Click(object sender, EventArgs e)
+        {
+            insertarTicket();
         }
     }
 }

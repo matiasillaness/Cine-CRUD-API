@@ -28,8 +28,8 @@ namespace Backend.Datos.Implementaciones
                 cmd.Transaction = trans;
                 cmd.CommandText = "SP_GRABAR_TICKET";
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.AddWithValue("@id_tipo_pago", oTicket.Pago.idTipoPago);
-                cmd.Parameters.AddWithValue("@id_cliente", oTicket.Cliente.Id_Cliente);
+                cmd.Parameters.AddWithValue("@id_tipo_pago", oTicket.Pago);
+                cmd.Parameters.AddWithValue("@id_cliente", oTicket.Cliente);
                 cmd.Parameters.AddWithValue("@fecha_compra", oTicket.Fecha);
                 SqlParameter pOut = new SqlParameter();
                 pOut.SqlDbType = SqlDbType.Int;

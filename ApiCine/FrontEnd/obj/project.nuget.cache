@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "okbn62d9egJ8zno2KUt7/r0MH0vrtJ1DQvL9HnDiZY2j1UP6RsZ4I/MYj2Id9CQLV0CdhXliDHQQJOepxVQo0A==",
+  "dgSpecHash": "7qSdxTNGGsNnD57wMaGE/vlS36AINCtYpcD6x9VBDke2msr0p3D98LIJrld67KFLlepjJIz78w7VT6ghgE6Ivg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CineKilpaApi\\proyecto_api\\proyecto_api\\CineAPI\\CineAPI\\ApiCine\\FrontEnd\\FrontEnd.csproj",
+  "projectFilePath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\FrontEnd\\FrontEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\illan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\illan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -10,8 +10,14 @@ namespace Backend.Dominio
     {
         public int TicketNro { get; set; }
         public List<DetalleTicket> Detalles { get; set; }
-        public TipoPago Pago { get; set; }
-        public Cliente Cliente { get; set; }
+        public int Pago { get; set; }
+
+        //public TipoPago Pago { get; set; } VER
+
+
+        //public Cliente Cliente { get; set; } VER
+
+         public int Cliente { get; set; }
         public DateTime Fecha { get; set; }
 
         public void AgregarDetalle(DetalleTicket detalle)
