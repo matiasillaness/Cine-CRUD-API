@@ -1,0 +1,60 @@
+C:\Users\illan\source\repos\ApiCine\Backend\bin\Debug\net6.0\Backend.deps.json
+C:\Users\illan\source\repos\ApiCine\Backend\bin\Debug\net6.0\Backend.dll
+C:\Users\illan\source\repos\ApiCine\Backend\bin\Debug\net6.0\Backend.pdb
+C:\Users\illan\source\repos\ApiCine\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+C:\Users\illan\source\repos\ApiCine\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illan\source\repos\ApiCine\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+C:\Users\illan\source\repos\ApiCine\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+C:\Users\illan\source\repos\ApiCine\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\illan\source\repos\ApiCine\Backend\obj\Debug\net6.0\Backend.dll
+C:\Users\illan\source\repos\ApiCine\Backend\obj\Debug\net6.0\refint\Backend.dll
+C:\Users\illan\source\repos\ApiCine\Backend\obj\Debug\net6.0\Backend.pdb
+C:\Users\illan\source\repos\ApiCine\Backend\obj\Debug\net6.0\ref\Backend.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\refint\Backend.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.pdb
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\Backend\bin\Debug\net6.0\Backend.deps.json
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\Backend\bin\Debug\net6.0\Backend.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\Backend\bin\Debug\net6.0\Backend.pdb
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\ref\Backend.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\bin\Debug\net6.0\Backend.deps.json
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\bin\Debug\net6.0\Backend.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\bin\Debug\net6.0\Backend.pdb
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\refint\Backend.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.pdb
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\ref\Backend.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\bin\Debug\net6.0\Backend.deps.json
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\bin\Debug\net6.0\Backend.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\bin\Debug\net6.0\Backend.pdb
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\refint\Backend.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.pdb
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\ref\Backend.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\bin\Debug\net6.0\Backend.deps.json
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\bin\Debug\net6.0\Backend.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\bin\Debug\net6.0\Backend.pdb
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\refint\Backend.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\Backend.pdb
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\Backend\obj\Debug\net6.0\ref\Backend.dll

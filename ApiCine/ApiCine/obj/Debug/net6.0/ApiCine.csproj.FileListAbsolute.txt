@@ -1,0 +1,175 @@
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\Backend.dll
+C:\Users\illan\source\repos\ApiCine\ApiCine\bin\Debug\net6.0\Backend.pdb
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\illan\source\repos\ApiCine\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\appsettings.json
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.exe
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Backend.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Backend.pdb
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Backend.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Backend.pdb
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\appsettings.json
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.exe
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Backend.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Backend.pdb
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Backend.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\bin\Debug\net6.0\Backend.pdb
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll

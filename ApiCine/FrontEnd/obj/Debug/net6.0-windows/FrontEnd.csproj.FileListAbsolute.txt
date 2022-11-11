@@ -1,0 +1,184 @@
+C:\Users\illan\source\repos\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+C:\Users\illan\source\repos\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+C:\Users\illan\source\repos\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+C:\Users\illan\source\repos\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\illan\source\repos\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\illan\source\repos\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\illan\source\repos\ApiCine\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\illan\source\repos\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\illan\source\repos\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\illan\source\repos\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\illan\source\repos\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\illan\source\repos\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\illan\source\repos\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Backend.dll
+C:\Users\illan\source\repos\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Backend.pdb
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAltaClientes.resources
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAltaTickets.resources
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmConsultarFunciones.resources
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmConsultarTickets.resources
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmInicio.resources
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmLogin.resources
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmPrincipal.resources
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmRegistro.resources
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.AltaFuncion.resources
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAtajos.resources
+C:\Users\illan\source\repos\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Properties.Resources.resources
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.AltaFuncion.resources
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAltaClientes.resources
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAltaTickets.resources
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAtajos.resources
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmConsultarFunciones.resources
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmConsultarTickets.resources
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmInicio.resources
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmLogin.resources
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmPrincipal.resources
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmRegistro.resources
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Properties.Resources.resources
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Backend.dll
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Backend.pdb
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+D:\escritorio\UTN\tpi labo nuevoooooo\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Backend.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Backend.pdb
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.AltaFuncion.resources
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAltaClientes.resources
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAltaTickets.resources
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAtajos.resources
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmConsultarFunciones.resources
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmConsultarTickets.resources
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmInicio.resources
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmLogin.resources
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmPrincipal.resources
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmRegistro.resources
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Properties.Resources.resources
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+C:\Users\dania\OneDrive\Escritorio\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Backend.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Backend.pdb
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.AltaFuncion.resources
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAltaClientes.resources
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAltaTickets.resources
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAtajos.resources
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmConsultarFunciones.resources
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmConsultarTickets.resources
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmInicio.resources
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmLogin.resources
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmRegistro.resources
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Properties.Resources.resources
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+D:\escritorio\UTN\01. TPI PROGRAMACIÓN\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Backend.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\bin\Debug\net6.0-windows\Backend.pdb
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.AltaFuncion.resources
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAcercaDe.resources
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAltaClientes.resources
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAltaTickets.resources
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmAtajos.resources
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmConsultarFunciones.resources
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmConsultarTickets.resources
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmInicio.resources
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmLogin.resources
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Presentaciones.frmRegistro.resources
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Properties.Resources.resources
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+C:\Users\illan\OneDrive\Escritorio\CineKilpaApi\proyecto_api\proyecto_api\CineAPI\CineAPI\ApiCine\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
