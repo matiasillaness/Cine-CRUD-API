@@ -51,12 +51,12 @@ namespace FrontEnd.Presentaciones
             detalle = new DetalleTicket();
         }
 
-        private void frmAltaTickets_Load(object sender, EventArgs e)
+        private async void frmAltaTickets_Load(object sender, EventArgs e)
         {
-            cargarFunciones();
-            cargarTipoPago();
-            cargarClientes();
-            textooTicket();
+            await cargarFunciones();
+            await cargarTipoPago();
+            await cargarClientes();
+            await textooTicket();
         }
 
         private async Task cargarFunciones()
@@ -65,7 +65,7 @@ namespace FrontEnd.Presentaciones
             var data = await ClientSingleton.GetInstancia().GetAsync(url);
             var lst = JsonConvert.DeserializeObject<List<Funcion>>(data);
             cboFuncion.DataSource = lst;
-            cboFuncion.DisplayMember = "Pelicula";
+            cboFuncion.DisplayMember = "id_funcion";
             cboFuncion.ValueMember = "id_funcion";
             cboFuncion.DropDownStyle = ComboBoxStyle.DropDownList;
         }
@@ -76,7 +76,7 @@ namespace FrontEnd.Presentaciones
             var lst = JsonConvert.DeserializeObject<List<TipoPago>>(data);
             cboTipoPagos.DataSource = lst;
             cboTipoPagos.DisplayMember = "nombreTipo";
-            cboTipoPagos.ValueMember = "idTipoPago ";
+            cboTipoPagos.ValueMember = "idTipoPago";
             cboTipoPagos.DropDownStyle = ComboBoxStyle.DropDownList;
       
         }
@@ -97,29 +97,27 @@ namespace FrontEnd.Presentaciones
             var lst = JsonConvert.DeserializeObject<List<Cliente>>(data);
             return lst;
         }
-        private async Task insertarTicket()
+        private async Task insertarTicketAsync()
         {
-            TipoPago tp2 = (TipoPago)cboTipoPagos.SelectedItem;
-            Cliente cl = (Cliente)cboClientes.SelectedItem;
+            oTicket.Pago = cboTipoPagos.SelectedIndex + 1;
+            oTicket.Cliente = cboClientes.SelectedIndex + 1;
+            oTicket.Fecha = DateTime.Now;
 
 
-            oTicket.Fecha = DateTime.Today;
-            oTicket.Pago = tp2.idTipoPago;
-            oTicket.Cliente= cl.Id_Cliente;
-           
-            
-    
+
+       
+  
             string bodyContent = JsonConvert.SerializeObject(oTicket);
             string url = "https://localhost:7066/Ticket";
             var result = await ClientSingleton.GetInstancia().PostAsync(url, bodyContent);
 
-            if (result.Equals("1"))
+            if (result.Equals("true"))
             {
                 MessageBox.Show("Ticket Registrado",
                     "Informe",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Information);
-                
+
             }
             else
             {
@@ -127,6 +125,8 @@ namespace FrontEnd.Presentaciones
             }
 
         }
+     
+       
         //private void btnAceptar_Click(object sender, EventArgs e)
         //{
         //    if (cboTipoPago.Text == string.Empty)
@@ -315,9 +315,9 @@ namespace FrontEnd.Presentaciones
 
         }
 
-        private void btnAceptar_Click(object sender, EventArgs e)
+        private async void btnAceptar_Click(object sender, EventArgs e)
         {
-            insertarTicket();
+             await insertarTicketAsync();
         }
     }
 }

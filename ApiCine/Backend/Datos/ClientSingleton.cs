@@ -35,7 +35,9 @@ namespace Backend.Datos
             "application/json");
             var result = await cliente.PostAsync(url, content);
             var response = "";
-            if (result.IsSuccessStatusCode)
+            Console.WriteLine(result.IsSuccessStatusCode);
+            if (result.IsSuccessStatusCode) 
+             
                 response = await result.Content.ReadAsStringAsync();
             return response;
         }

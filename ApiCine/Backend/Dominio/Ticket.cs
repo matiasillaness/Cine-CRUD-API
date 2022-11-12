@@ -20,6 +20,8 @@ namespace Backend.Dominio
          public int Cliente { get; set; }
         public DateTime Fecha { get; set; }
 
+      
+
         public void AgregarDetalle(DetalleTicket detalle)
         {
             Detalles.Add(detalle);
