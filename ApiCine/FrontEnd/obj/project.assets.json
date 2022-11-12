@@ -164,6 +164,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
           "System.Data.SqlClient": "4.8.5"
         },
         "compile": {
@@ -535,11 +536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\FrontEnd\\FrontEnd.csproj",
+      "projectUniqueName": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\FrontEnd\\FrontEnd.csproj",
       "projectName": "FrontEnd",
-      "projectPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\FrontEnd\\FrontEnd.csproj",
+      "projectPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\FrontEnd\\FrontEnd.csproj",
       "packagesPath": "C:\\Users\\illan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\FrontEnd\\obj\\",
+      "outputPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\FrontEnd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -560,8 +561,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj": {
-              "projectPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj"
+            "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj": {
+              "projectPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj"
             }
           }
         }

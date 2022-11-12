@@ -5,6 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Backend.Dominio;
 
 namespace Backend.Datos
 {
@@ -129,5 +130,6 @@ namespace Backend.Datos
         {
             return this.cnn;
         }
+      
     }
 }

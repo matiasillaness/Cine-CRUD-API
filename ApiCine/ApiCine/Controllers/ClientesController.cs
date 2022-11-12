@@ -59,8 +59,17 @@ namespace ApiCine.Controllers
                 throw;
             }
         }
+        [HttpPost("/Ticket22")]
+        public IActionResult PostTicket(Ticket a)
+        {
+            if (a == null)
+                return BadRequest("ERROR AL DAR DE ALTA EL TICKET");
 
-        
+            else
+                return Ok(oServicio.getConfirmarTicket(a));
+        }
+
+
 
 
 

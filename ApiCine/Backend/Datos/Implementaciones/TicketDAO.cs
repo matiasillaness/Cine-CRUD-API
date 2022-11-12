@@ -13,17 +13,17 @@ namespace Backend.Datos.Implementaciones
 {
     public class TicketDAO : ITicketDAO
     {
-
+        
         public bool getConfirmarTicket(Ticket oTicket)
         {
             bool resultado = true;
             SqlTransaction trans = null;
-            SqlConnection conn = HelperDAO.ObtenerInstancia().ObtenerConexion();
+            SqlConnection conn = HelperDAO.ObtenerInstancia().ObtenerConexion();         
             SqlCommand cmd = new SqlCommand();
             try
             {
+
                 conn.Open();
-                cmd.Parameters.Clear();
                 trans = conn.BeginTransaction();
                 cmd.Connection = conn;
                 cmd.Transaction = trans;
@@ -31,29 +31,32 @@ namespace Backend.Datos.Implementaciones
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddWithValue("@id_tipo_pago", oTicket.Pago);
                 cmd.Parameters.AddWithValue("@id_cliente", oTicket.Cliente);
-                cmd.Parameters.AddWithValue("@fecha_compra", oTicket.Fecha);
+                cmd.Parameters.AddWithValue("@fecha_compra", DateTime.Today);
                 SqlParameter pOut = new SqlParameter();
                 pOut.SqlDbType = SqlDbType.Int;
                 pOut.ParameterName = "@id_ticket";
                 pOut.Direction = ParameterDirection.Output;
                 cmd.Parameters.Add(pOut);
                 cmd.ExecuteNonQuery();
-
-
-                SqlCommand comando = new SqlCommand();
+              
+               
                 foreach (DetalleTicket detalle in oTicket.Detalles)
                 {
-
-                    comando.Parameters.Clear();
+                    SqlCommand comando = new SqlCommand();
+                    comando.CommandType = CommandType.StoredProcedure;
                     comando.CommandText = "SP_INSERTAR_DETALLE_TICKET";
+                    comando.Connection = conn;
+                    comando.Transaction = trans;        
                     comando.Parameters.AddWithValue("@id_ticket", (int)pOut.Value);
                     comando.Parameters.AddWithValue("@id_funcion", detalle.Funcion);
                     comando.Parameters.AddWithValue("@descuento", detalle.Descuento);
                     comando.Parameters.AddWithValue("@id_butaca", detalle.Butaca);
                     comando.Parameters.AddWithValue("@costo", detalle.Costo);
                     comando.ExecuteNonQuery();
+                  
                 }
                 trans.Commit();
+                
             }
             catch (Exception)
             {
@@ -62,11 +65,15 @@ namespace Backend.Datos.Implementaciones
             }
             finally
             {
-                conn.Close();
+                if (conn.State == ConnectionState.Open)
+                {
+                    conn.Close();
+                }
             }
             return resultado;
-        }
 
+
+        }
 
 
 
@@ -266,13 +273,33 @@ namespace Backend.Datos.Implementaciones
             lista_parametros.Add(new Parametro("@telefono", oCliente.Telefono));
             lista_parametros.Add(new Parametro("@nombre", oCliente.Nombre));
             lista_parametros.Add(new Parametro("@apellido", oCliente.Apellido));
-            return HelperDAO.ObtenerInstancia().EjecutarSQL("SP_GRABAR_CLIENTE", lista_parametros);  
-
-
-
-           
-
+            return HelperDAO.ObtenerInstancia().EjecutarSQL("SP_GRABAR_CLIENTE", lista_parametros);   
         }
+
+        public int insertarprueba(Ticket oTicket)
+        {
+            List<Parametro> lista_parametros = new List<Parametro>();
+            lista_parametros.Add(new Parametro("@id_tipo_pago", oTicket.Pago));
+            lista_parametros.Add(new Parametro("@id_cliente", oTicket.Cliente));
+            lista_parametros.Add(new Parametro("@fecha_compra", oTicket.Fecha));
+            
+
+            foreach (DetalleTicket detalle in oTicket.Detalles)
+            {
+
+                List<Parametro> lista_parametross = new List<Parametro>();
+                lista_parametros.Add(new Parametro("@id_ticket", 2));
+                lista_parametros.Add(new Parametro("@id_funcion", detalle.Funcion));
+                lista_parametros.Add(new Parametro("@descuento", detalle.Descuento));
+                lista_parametros.Add(new Parametro("@id_butaca", detalle.Butaca));
+                lista_parametros.Add(new Parametro("@costo", detalle.Costo));
+               
+                return HelperDAO.ObtenerInstancia().EjecutarSQL("SP_GRABAR_TICKET", lista_parametross);
+
+            }         
+            return HelperDAO.ObtenerInstancia().EjecutarSQL("SP_GRABAR_TICKET", lista_parametros);
+        }
+
 
         public int getGrabarFuncion(Funcion oFuncion)
         {

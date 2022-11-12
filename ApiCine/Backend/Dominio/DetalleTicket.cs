@@ -12,9 +12,7 @@ namespace Backend.Dominio
         public int Butaca { get; set; }
         public int Funcion { get; set; }
         public double Descuento { get; set; }
-
-
-
+       
         public DetalleTicket(double costo, int butaca, int funcion, double descuento)
         {
             Costo = costo;

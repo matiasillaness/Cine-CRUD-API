@@ -17,10 +17,18 @@ namespace Backend.Dominio
 
         //public Cliente Cliente { get; set; } VER
 
-         public int Cliente { get; set; }
+        public int Cliente { get; set; }
         public DateTime Fecha { get; set; }
 
-      
+        public Ticket()
+        {
+            Detalles = new List<DetalleTicket>();
+            Pago = 0;
+            Cliente = 0;
+            Fecha = DateTime.Now;
+        }
+     
+
 
         public void AgregarDetalle(DetalleTicket detalle)
         {
@@ -36,12 +44,6 @@ namespace Backend.Dominio
         {
             return Detalles.Count;
         }
-
-        public Ticket()
-        {
-            Detalles = new List<DetalleTicket>();
-        }
-
         public double CalcularSubTotal()
         {
             double total = 0;

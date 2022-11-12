@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Backend.Dominio;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -35,10 +36,10 @@ namespace Backend.Datos
             "application/json");
             var result = await cliente.PostAsync(url, content);
             var response = "";
-            Console.WriteLine(result.IsSuccessStatusCode);
-            if (result.IsSuccessStatusCode) 
-             
+            if (result.IsSuccessStatusCode)
+            {
                 response = await result.Content.ReadAsStringAsync();
+            }       
             return response;
         }
         public async Task<string> DeleteAsync(string url)
@@ -48,6 +49,24 @@ namespace Backend.Datos
             if (result.IsSuccessStatusCode)
                 content = await result.Content.ReadAsStringAsync();
             return content;
+        }
+        public async Task<string> PatchAsync(string url, string data)
+        {
+            StringContent content = new StringContent(data, Encoding.UTF8, "application/json");
+            var result = await cliente.PatchAsync(url, content);
+            var response = "";
+            if (result.IsSuccessStatusCode)
+                response = await result.Content.ReadAsStringAsync();
+            return response;
+        }
+        public async Task<string> PutAsync(string url, string data)
+        {
+            StringContent content = new StringContent(data, Encoding.UTF8, "application/json");
+            var result = await cliente.PutAsync(url, content);
+            var response = "";
+            if (result.IsSuccessStatusCode)
+                response = await result.Content.ReadAsStringAsync();
+            return response;
         }
     }
 }

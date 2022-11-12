@@ -10,6 +10,7 @@ namespace ApiCine.Controllers
     {
         private IServicio oServicio;
         private FabricaServicios oFabrica;
+        
 
         public TicketController()
         {
@@ -43,7 +44,19 @@ namespace ApiCine.Controllers
         
         
         [HttpPost("/Ticket")]
-        public IActionResult PostTicket(Ticket a)
+        public IActionResult PostTicket(Ticket a) //HIJO DE MIL PUTA
+        {
+               
+            if (a == null)
+                    return BadRequest("ERROR AL DAR DE ALTA EL TICKET");
+               
+            else
+                    return Ok(oServicio.getConfirmarTicket(a));        
+        
+        
+        }
+        [HttpPut("/Ticket2")]
+        public IActionResult PutTicket(Ticket a)
         {
             try
             {
@@ -57,6 +70,7 @@ namespace ApiCine.Controllers
                 throw e;
             }
         }
+
 
     }
 }

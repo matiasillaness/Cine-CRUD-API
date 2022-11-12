@@ -33,15 +33,7 @@ namespace FrontEnd.Presentaciones
 
         private static frmAltaTickets instancia = null;
 
-        public static frmAltaTickets ObtenerInstancia()
-        {
-            if (instancia == null || instancia.IsDisposed)
-            {
-                instancia = new frmAltaTickets();
-            }
-            
-            return instancia;
-        }
+       
 
         public frmAltaTickets()
         {
@@ -97,33 +89,28 @@ namespace FrontEnd.Presentaciones
             var lst = JsonConvert.DeserializeObject<List<Cliente>>(data);
             return lst;
         }
-        private async Task insertarTicketAsync()
+        private async Task<bool> insertarTicketAsync()
         {
             oTicket.Pago = cboTipoPagos.SelectedIndex + 1;
             oTicket.Cliente = cboClientes.SelectedIndex + 1;
-            oTicket.Fecha = DateTime.Now;
 
 
 
        
   
-            string bodyContent = JsonConvert.SerializeObject(oTicket);
-            string url = "https://localhost:7066/Ticket";
+            var bodyContent = JsonConvert.SerializeObject(oTicket);
+            string url = "https://localhost:7066/Ticket22";
             var result = await ClientSingleton.GetInstancia().PostAsync(url, bodyContent);
-
             if (result.Equals("true"))
             {
-                MessageBox.Show("Ticket Registrado",
-                    "Informe",
-                    MessageBoxButtons.OK,
-                    MessageBoxIcon.Information);
-
+                MessageBox.Show("INSERTADO CORRECTAMENTE");
+                return true;
             }
             else
             {
-                MessageBox.Show("Ticket No Registrado", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-
+                MessageBox.Show("ERROR INTERNO, CONTACTE UN ADMINISTRADOR");
+                return false;
+            } 
         }
      
        

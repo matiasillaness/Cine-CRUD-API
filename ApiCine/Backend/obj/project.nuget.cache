@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "H1C9cedhWyI9jERZZGBaRLcyyQafNWjtbMWg1HpYP2WvXQnEAon7dh1YFicYAGo9GLm2jLCtzmvqLuS55xMEOw==",
+  "dgSpecHash": "PsD0YmZWE32Vp1IsaL1io3Yv4dt0pXp7tBVrMYNKaqDYWbYbZdlwLfha+VamRIGyRwfRxbEEKOb/JKO7KBrNGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj",
+  "projectFilePath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\illan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\illan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\illan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\illan\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\illan\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\illan\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

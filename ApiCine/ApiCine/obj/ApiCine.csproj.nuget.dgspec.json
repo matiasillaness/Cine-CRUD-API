@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\ApiCine\\ApiCine.csproj": {}
+    "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\ApiCine\\ApiCine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\ApiCine\\ApiCine.csproj": {
+    "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\ApiCine\\ApiCine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\ApiCine\\ApiCine.csproj",
+        "projectUniqueName": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\ApiCine\\ApiCine.csproj",
         "projectName": "ApiCine",
-        "projectPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\ApiCine\\ApiCine.csproj",
+        "projectPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\ApiCine\\ApiCine.csproj",
         "packagesPath": "C:\\Users\\illan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\ApiCine\\obj\\",
+        "outputPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\ApiCine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj": {
-                "projectPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj"
+              "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj": {
+                "projectPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj"
               }
             }
           }
@@ -48,6 +48,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -76,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj": {
+    "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj",
+        "projectPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\illan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINE+GIT\\Cine-CRUD-API\\ApiCine\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\illan\\OneDrive\\Escritorio\\CINEGIT2DO\\Cine-CRUD-API\\ApiCine\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -116,6 +120,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.5, )"
